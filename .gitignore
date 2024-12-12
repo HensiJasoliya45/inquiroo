@@ -10,7 +10,7 @@
 
 # production
 /build
-
+/public/inquiroo
 # misc
 .DS_Store
 .env.local
